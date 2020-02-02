@@ -1,0 +1,9 @@
+H:\Advanced C#\LabAsignemnt4\MyWindowsService1\MyWindowsService1\bin\Debug\MyWindowsService1.exe.config
+H:\Advanced C#\LabAsignemnt4\MyWindowsService1\MyWindowsService1\bin\Debug\MyWindowsService1.exe
+H:\Advanced C#\LabAsignemnt4\MyWindowsService1\MyWindowsService1\bin\Debug\MyWindowsService1.pdb
+H:\Advanced C#\LabAsignemnt4\MyWindowsService1\MyWindowsService1\obj\Debug\MyWindowsService1.ProjectInstaller.resources
+H:\Advanced C#\LabAsignemnt4\MyWindowsService1\MyWindowsService1\obj\Debug\MyWindowsService1.MyNewService.resources
+H:\Advanced C#\LabAsignemnt4\MyWindowsService1\MyWindowsService1\obj\Debug\MyWindowsService1.csproj.GenerateResource.Cache
+H:\Advanced C#\LabAsignemnt4\MyWindowsService1\MyWindowsService1\obj\Debug\MyWindowsService1.exe
+H:\Advanced C#\LabAsignemnt4\MyWindowsService1\MyWindowsService1\obj\Debug\MyWindowsService1.pdb
+H:\Advanced C#\LabAsignemnt4\MyWindowsService1\MyWindowsService1\obj\Debug\MyWindowsService1.csprojResolveAssemblyReference.cache
